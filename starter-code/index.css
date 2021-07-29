@@ -1,0 +1,91 @@
+body{
+    background: #272525;
+}
+
+.first-div{
+    display: grid;
+    grid-template-rows: 500px 200px 150px;
+    align-self: center;
+}
+.di-one{
+    background-image: url('utils/images/hero-bg-desktop.jpg');
+    background-repeat: no-repeat;
+    width: 1000px ;
+    text-align: left;
+    margin-left: 22.5%;
+}
+
+.section-one{
+    color: #fff;
+
+
+}
+.di-two{
+    background-color: rgb(245, 239, 239);
+    height: 200px;
+    width: 1000px;
+    margin-left: 22.5%;
+}
+.di-three{
+    background-color: #000;
+    height: 150px;
+    width: 1000px;
+    margin-left: 22.5%;
+}
+.section-three{
+    color: #fff;
+}
+h2, h1, p{
+    padding: 15px 100px 0px;
+    font-family: arial;
+}
+.pj-one{
+    padding-bottom: 90px;
+}
+.di-four{
+    background-color: #fff;
+    position: absolute;
+    height: 350px;
+    width: 400px;
+    margin: 250px 900px;
+    text-align:left;
+
+   
+    
+}
+.section-two{
+   text-align: center;
+   padding-top: 60px 300px;
+}
+.black{
+text-align: center;
+margin-right: 50px;    
+}
+ul{
+    list-style: none;
+}
+input{
+    border: 0;
+    border-bottom: 0.1px solid#808080;
+    padding: 5px 10px;
+    outline: none;
+    width:80%;
+}
+label{
+    border: 0;
+    border-bottom: 0.1px solid#808080;
+    padding: 5px 10px;
+    outline: none;
+}
+.line{
+    text-align: center;
+    padding-top: 80px;
+    position: absolute;
+}
+
+.favour{
+    text-align: center;
+    padding-right: 15px;
+}
+
+ 
